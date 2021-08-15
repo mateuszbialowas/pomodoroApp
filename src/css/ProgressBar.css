@@ -1,0 +1,17 @@
+.ProgressBar {
+    height: 25px;
+    border: 1px solid var(--primary-color);
+    margin: 20px 0;
+    padding: 5px;
+    border-radius: 5px;
+    position: relative;
+    display: flex;
+}
+
+.ProgressBar::after {
+    content: "";
+    position: absolute;
+    background: var(--primary-color);
+    width: calc(var(--progress-bar) - 10px);
+    height: 25px;
+}
