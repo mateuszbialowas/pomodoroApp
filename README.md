@@ -2,7 +2,7 @@
 
 🚀 [Demo link](https://pomodoro-app-psi.vercel.app/)
 
-⚛️ [CodeSanbox](https://codesandbox.io/s/blue-shape-ct4yu?file=/package.json)
+⚛️ [CodeSanbox](https://codesandbox.io/s/solitary-night-bpvxr)
 
 ## Preview image
 ![image](https://user-images.githubusercontent.com/58574619/129587090-77a93ec6-0403-4789-bdc4-0314d54db225.png)
