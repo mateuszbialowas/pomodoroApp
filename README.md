@@ -1,6 +1,6 @@
 # Pomodoro app created with React
 
-🚀 [Demo link](https://song-player.vercel.app/)
+🚀 [Demo link](https://pomodoro-app-psi.vercel.app/)
 
 ⚛️ [CodeSanbox](https://codesandbox.io/s/blue-shape-ct4yu?file=/package.json)
 
