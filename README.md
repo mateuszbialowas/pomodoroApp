@@ -1,3 +1,28 @@
+# Pomodoro app created with React
+
+🚀 [Demo link](https://song-player.vercel.app/)
+
+⚛️ [CodeSanbox](https://codesandbox.io/s/blue-shape-ct4yu?file=/package.json)
+
+## Preview image
+![image](https://user-images.githubusercontent.com/58574619/129587090-77a93ec6-0403-4789-bdc4-0314d54db225.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
