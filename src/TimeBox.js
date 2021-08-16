@@ -71,13 +71,13 @@ export class TimeBox extends React.Component {
   }
 
   togglePause() {
+    if (this.state.isPaused) {
+      this.startTimer();
+    } else {
+      this.stopTimer();
+    }
     this.setState(function (prevState) {
       const isPaused = !prevState.isPaused;
-      if (isPaused) {
-        this.stopTimer();
-      } else {
-        this.startTimer();
-      }
       return {
         isPaused,
         pauseCount: isPaused ? prevState.pauseCount + 1 : prevState.pauseCount,
