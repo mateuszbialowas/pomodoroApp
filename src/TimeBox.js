@@ -41,21 +41,6 @@ export class TimeBox extends React.Component {
     this.stopTimer();
   }
 
-  // TogglePause = () => {
-  //   this.setState((prevState) => ({
-  //     const isPaused = !prevState.isPaused;
-  //     // isPaused: !prevState.isPaused,
-  //     // pauseCount: this.state.isPaused
-  //     //   ? prevState.pauseCount + 1
-  //     //   : prevState.pauseCount,
-  //   }));
-  //   if (this.state.isPaused) {
-  //     this.stopTimer();
-  //   } else {
-  //     this.startTimer();
-  //   }
-  // };
-
   startTimer() {
     this.intervalId = window.setInterval(() => {
       this.setState((prevState) => ({
