@@ -10,7 +10,7 @@ function normalizeTimeValues(minutes, seconds) {
 }
 
 export function Clock({ minutes = 0, seconds = 0 }) {
-  // [minutes, seconds] = normalizeTimeValues(minutes, seconds);
+  [minutes, seconds] = normalizeTimeValues(minutes, seconds);
   return (
     <div className="Clock">
       <span>
