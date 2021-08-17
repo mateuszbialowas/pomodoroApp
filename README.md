@@ -8,11 +8,18 @@
 ![image](https://user-images.githubusercontent.com/58574619/129587090-77a93ec6-0403-4789-bdc4-0314d54db225.png)
 
 
+## What I have learned in week2
 
-
-
-
-
+ 1. Create a class component with a constructor
+ 2. Create functional components
+ 3. What is props and haw to pass then inside components
+ 4. what is destructuring, how to destructure props, or state
+ 5. Change state with setState
+ 6. How to use prevState
+ 7. Create methods and bind them or create them with name = () => {}
+ 8. What is JSX
+ 9. Create timer with window.setInterval()
+ 10. Create default props and how to pass props to components
 
 
 
